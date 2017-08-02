@@ -1,0 +1,25 @@
+﻿///// CONNECTION EMPLOYE :
+
+- identifiant : admin
+- mot de passe : admin
+
+
+///// ABREVIATIONS :
+
+- bw : bulky waste = encombrant
+- DB : Data Base = base de données
+
+
+///// MISE EN PRODUCTION / EN LIGNE :
+
+> préciser que la consultation du présent document est nécessaire
+
+
+> supprimer ou mettre en commentaires les instructions de débugage,
+ou celles servant seulement au bon fonctionnement en localhost (identifiables par les "@@@") :
+- "console.log", "var_dump" ...
+
+
+> dans FileZilla :
+- copier le "connect-db.php" du dossier "prod" et le coller dans le dossier "trash-app-fl" du site en production.
+- penser à l'envoi également des fichiers JS et CSS.

@@ -1,0 +1,98 @@
+///// I - BACKGROUND & FONT COLORS
+
+.vert-chrome-bkgd {
+    background-color: $vert-chrome;
+}
+.olive-bkgd {
+    background-color: $olive;
+}
+.vert-eau-bkgd {
+    background-color: $vert-eau;
+}
+.vert-tilleul-bkgd {
+	background-color: $vert-tilleul;
+}
+.vert-tilleul-font-color {
+	color: $vert-tilleul;
+}
+.rubis-bkgd {
+    background-color: $rubis;
+}
+.black-font-color {
+	color: black;
+}
+
+///// II - DISPOSITIONS
+
+// HAUTEURS :
+.adapt-height {
+	min-height: 200px;
+}
+
+// LARGEURS :
+.width-200px {
+	width: 200px;
+}
+
+// MARGES :
+.padding-top-10px {
+	padding-top: 10px;
+}
+.padding-top-20px {
+	padding-top: 20px;
+}
+.padding-bottom-5px {
+	padding-bottom: 5px;
+}
+.padding-bottom-10px {
+	padding-bottom: 10px;
+}
+.padding-bottom-20px {
+	padding-bottom: 20px;
+}
+
+// FLEX :
+.display-flex {
+    display: flex;
+}
+.flex-direction-column {
+	flex-direction: column;
+}
+.justify-content-center {
+	justify-content: center;
+}
+.justify-content-space-around {
+	justify-content: space-around;
+}
+.align-items-center {
+	align-items: center;
+}
+
+// NO-FLEX :
+.display-block {
+	display: block;
+}
+
+// JUSTIFICATION TEXTE :
+.text-align-center {
+	text-align: center;
+}
+.text-align-left {
+	text-align: left;
+}
+
+
+///// III - CSS "ORIENTE OBJET"
+
+.font-size-13px {
+	font-size: 13px;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.underline {
+	text-decoration: underline;
+}
